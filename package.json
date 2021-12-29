@@ -17,5 +17,11 @@
   "dependencies": {
     "express": "^4.17.2",
     "nodemon": "^2.0.15"
-  }
+  },
+  
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/adeniranjohn/e-library.git"
+    }
+  
 }
