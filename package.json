@@ -1,0 +1,21 @@
+{
+  "name": "e-library",
+  "version": "1.0.0",
+  "description": "A School e-library app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "School",
+    "Library"
+  ],
+  "author": "John Adeniran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
